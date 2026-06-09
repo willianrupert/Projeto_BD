@@ -2,7 +2,7 @@
 
 **Projeto acadêmico de Banco de Dados com foco em modelagem relacional, SQL e PL/SQL para um cenário de e-commerce.**
 
-**Disciplina:** Banco de Dados UFPE CIn  
+**Disciplina:** Banco de Dados - UFPE CIn  
 **Turma:** 2026.1  
 **Equipe:** Amanda Trinity, Maria Eduarda, Maria Luísa, Matheus Braglia, Mirella Laura, Willian Neves
 
